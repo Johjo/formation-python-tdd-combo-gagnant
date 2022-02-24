@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "26a6ceaca7d752c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "412bb3546c7fc04c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "formation/2. Python/03.introduction à l'art du test avec pytest.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0491c0d7b27157a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "70750c4417b711e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b264c80be6a12b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c9b85917be2194f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40d0aea350d86301",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e6d3cc6972df19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "865755e789760295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "formation/2. Python/03.introduction à l'art du test avec pytest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "412bb3546c7fc04c",
+  "lastOpenFiles": [
+    "formation/2. Python/03.introduction à l'art du test avec pytest.md",
+    "formation/2. Python/02.notre premier programme.md",
+    "formation/2. Python/01.mise en place de python.md",
+    "formation/README.md",
+    "Sans titre.md"
+  ]
+}
